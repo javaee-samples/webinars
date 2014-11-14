@@ -1,0 +1,23 @@
+# Java EE Webinars
+
+## Completed
+
+. Java EE Deployment Pipelines using Docker - Adam Bien
+
+## Prospective Speakers (not in order)
+
+. Antonio Goncalves
+. Aslak Knutsen
+. Axel Fontaine
+. Lukas Eder
+. Reza Rahman
+. Jason Greene
+. David Blevins
+. Roberto Cortez
+. Anatole Tresch
+. Ed Burns
+. Alexander Heusingfeld
+. Antoine Sabot-Durand
+. Gerhard Petracek
+. George Gastaldi
+
