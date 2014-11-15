@@ -6,18 +6,17 @@
 
 ## Prospective Speakers (not in order)
 
-. Antonio Goncalves
-. Aslak Knutsen
-. Axel Fontaine
-. Lukas Eder
-. Reza Rahman
-. Jason Greene
-. David Blevins
-. Roberto Cortez
-. Anatole Tresch
-. Ed Burns
-. Alexander Heusingfeld
-. Antoine Sabot-Durand
-. Gerhard Petracek
-. George Gastaldi
+. https://github.com/javaee-samples/webinars/issues/1[Antonio Goncalves]
+. https://github.com/javaee-samples/webinars/issues/2[Aslak Knutsen]
+. https://github.com/javaee-samples/webinars/issues/3[Axel Fontaine]
+. https://github.com/javaee-samples/webinars/issues/4[Lukas Eder]
+. https://github.com/javaee-samples/webinars/issues/5[Reza Rahman]
+. https://github.com/javaee-samples/webinars/issues/6[David Blevins]
+. https://github.com/javaee-samples/webinars/issues/7[Roberto Cortez]
+. https://github.com/javaee-samples/webinars/issues/8[Anatole Tresch]
+. https://github.com/javaee-samples/webinars/issues/9[Ed Burns]
+. https://github.com/javaee-samples/webinars/issues/10[Alexander Heusingfeld]
+. https://github.com/javaee-samples/webinars/issues/11[Antoine Sabot-Durand]
+. https://github.com/javaee-samples/webinars/issues/12[Gerhard Petracek]
+. https://github.com/javaee-samples/webinars/issues/13[George Gastaldi]
 
