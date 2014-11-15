@@ -19,4 +19,5 @@
 . https://github.com/javaee-samples/webinars/issues/11[Antoine Sabot-Durand]
 . https://github.com/javaee-samples/webinars/issues/12[Gerhard Petracek]
 . https://github.com/javaee-samples/webinars/issues/13[George Gastaldi]
+. https://github.com/javaee-samples/webinars/issues/14[Xavier Coulon]
 
