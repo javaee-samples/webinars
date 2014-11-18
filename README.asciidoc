@@ -2,8 +2,7 @@
 
 ## Completed
 
-. http://blog.arungupta.me/2014/11/continuous-deployment-javaee7-wildfly-docker-new-webinar-series/[Java
-  EE Deployment Pipelines using Docker - Adam Bien]
+. http://blog.arungupta.me/2014/11/continuous-deployment-javaee7-wildfly-docker-new-webinar-series/[Being Continuous with Java EE - Adam Bien]
 
 ## Prospective Speakers (not in order)
 
@@ -21,4 +20,5 @@
 . https://github.com/javaee-samples/webinars/issues/12[Gerhard Petracek]
 . https://github.com/javaee-samples/webinars/issues/13[George Gastaldi]
 . https://github.com/javaee-samples/webinars/issues/14[Xavier Coulon]
+. https://github.com/javaee-samples/webinars/issues/16[Emmanuel Bernard]
 
