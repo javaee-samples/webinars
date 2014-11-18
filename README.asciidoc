@@ -2,7 +2,8 @@
 
 ## Completed
 
-. Java EE Deployment Pipelines using Docker - Adam Bien
+. http://blog.arungupta.me/2014/11/continuous-deployment-javaee7-wildfly-docker-new-webinar-series/[Java
+  EE Deployment Pipelines using Docker - Adam Bien]
 
 ## Prospective Speakers (not in order)
 
