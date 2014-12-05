@@ -3,11 +3,11 @@
 ## Completed
 
 . http://blog.arungupta.me/2014/11/continuous-deployment-javaee7-wildfly-docker-new-webinar-series/[Being Continuous with Java EE - Adam Bien]
+. http://blog.arungupta.me/2014/12/jooq-jdbc-javaee-hibernate-hanginar2/[jOOQ and how it relates to JDBC, Java EE, Hibernate, etc - Lukas Eder] - Dec 3, 2014
 
 ## Scheduled
 
-. https://github.com/javaee-samples/webinars/issues/4[Lukas Eder] - Dec 3, 2014
-
+. ?
 
 ## Prospective Speakers (not in order)
 
