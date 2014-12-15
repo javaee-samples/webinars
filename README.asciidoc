@@ -7,7 +7,7 @@
 
 ## Scheduled
 
-. ?
+. https://github.com/javaee-samples/webinars/issues/17[Paul Bakker] - Dec 15 2014
 
 ## Prospective Speakers (not in order)
 
@@ -25,6 +25,5 @@
 . https://github.com/javaee-samples/webinars/issues/13[George Gastaldi]
 . https://github.com/javaee-samples/webinars/issues/14[Xavier Coulon]
 . https://github.com/javaee-samples/webinars/issues/16[Emmanuel Bernard]
-. https://github.com/javaee-samples/webinars/issues/17[Paul Bakker]
 . https://github.com/javaee-samples/webinars/issues/18[Sanne Grinovero]
 
