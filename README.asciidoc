@@ -8,13 +8,14 @@
 ## Scheduled
 
 . https://github.com/javaee-samples/webinars/issues/17[Paul Bakker] - Dec 15 2014
+. https://github.com/javaee-samples/webinars/issues/5[Reza Rahman] on Domain Driven Design - Java 27, 2014
+. https://github.com/javaee-samples/webinars/issues/16[Emmanuel Bernard] on HIbernate OGM - ??
 
 ## Prospective Speakers (not in order)
 
 . https://github.com/javaee-samples/webinars/issues/1[Antonio Goncalves]
 . https://github.com/javaee-samples/webinars/issues/2[Aslak Knutsen]
 . https://github.com/javaee-samples/webinars/issues/3[Axel Fontaine]
-. https://github.com/javaee-samples/webinars/issues/5[Reza Rahman]
 . https://github.com/javaee-samples/webinars/issues/6[David Blevins]
 . https://github.com/javaee-samples/webinars/issues/7[Roberto Cortez]
 . https://github.com/javaee-samples/webinars/issues/8[Anatole Tresch]
@@ -24,6 +25,5 @@
 . https://github.com/javaee-samples/webinars/issues/12[Gerhard Petracek]
 . https://github.com/javaee-samples/webinars/issues/13[George Gastaldi]
 . https://github.com/javaee-samples/webinars/issues/14[Xavier Coulon]
-. https://github.com/javaee-samples/webinars/issues/16[Emmanuel Bernard]
 . https://github.com/javaee-samples/webinars/issues/18[Sanne Grinovero]
 
