@@ -2,7 +2,7 @@
 
 ## Completed
 
-. http://blog.arungupta.me/2014/12/modular-javaee-applications-osgi-hanginar3/[Paul Bakker] - Dec 15 2014
+. http://blog.arungupta.me/2014/12/modular-javaee-applications-osgi-hanginar3/[Modular Java Applications using OSGi - Paul Bakker] - Dec 15 2014
 . http://blog.arungupta.me/2014/12/jooq-jdbc-javaee-hibernate-hanginar2/[jOOQ and how it relates to JDBC, Java EE, Hibernate, etc - Lukas Eder] - Dec 3, 2014
 . http://blog.arungupta.me/2014/11/continuous-deployment-javaee7-wildfly-docker-new-webinar-series/[Being Continuous with Java EE - Adam Bien]
 
