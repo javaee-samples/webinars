@@ -15,7 +15,7 @@
 ## Scheduled
 
 . https://github.com/javaee-samples/webinars/issues/5[Reza Rahman] on Domain Driven Design with Java EE - Jan 27, 2015
-. https://github.com/javaee-samples/webinars/issues/3[Axel Fontaine] - Feb 3, 2015
+. https://github.com/javaee-samples/webinars/issues/3[Axel Fontaine] Database Migrations with Flyway - Feb 3, 2015
 
 ## Prospective Speakers (not in order)
 
