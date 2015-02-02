@@ -2,6 +2,8 @@
 
 ## Completed
 
+. http://blog.arungupta.me/domain-driven-design-javaee-hanginar5/[Domain
+  Driven Design for Java EE] with Reza Rahman - Jan 29, 2015
 . http://blog.arungupta.me/hibernate-ogm-nosql-solutions-javaee-hanginar4/[Hibernate
   OGM: NoSQL solutions for Java EE] Emmanuel Bernard - Jan 12, 2015
 . http://blog.arungupta.me/2014/12/modular-javaee-applications-osgi-hanginar3/[Modular
@@ -14,7 +16,6 @@
 
 ## Scheduled
 
-. https://github.com/javaee-samples/webinars/issues/5[Reza Rahman] on Domain Driven Design with Java EE - Jan 29, 2015
 . https://github.com/javaee-samples/webinars/issues/3[Axel Fontaine] Database Migrations with Flyway - Feb 3, 2015
 
 ## Prospective Speakers (not in order)
